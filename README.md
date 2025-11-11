@@ -1,5 +1,5 @@
 
-![OpenSimMPLS logo](/assets/img/cybertomp-logo.png){: .mx-auto.d-block :}
+![OpenSimMPLS logo](/assets/img/cybertomp-logo.png)
 
 ## CyberTOMP Framework
 
