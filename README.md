@@ -6,6 +6,6 @@
 
 Although the **CyberTOMP framework** can be applied in private-sector environments, it is **especially designed and particularly useful for public organizations**, which often face strong **structural compartmentalization into silos**, a **high dependence on outsourced technical services**, and a **complex supply chain**. CyberTOMP addresses these challenges by incorporating **specific mechanisms** that facilitate coordination across functional areas, ensure holistic cybersecurity management, and integrate supply chain dependencies into tactical and operational decision-making
 
-### Community Project and Upcoming Website
+## Community Project and Upcoming Website
 
 Due to the growing number of requests from researchers and professionals, the **CyberTOMP framework** is currently being prepared as a **community-driven project** that will allow **collaborative contributions** from interested participants. In the coming weeks, a **dedicated website** will be launched to host the project, share resources, and facilitate community engagement. Those interested in contributing or following the project’s evolution are encouraged to **stay tuned to this repository** for upcoming announcements and participation details.
